@@ -1,1 +1,1 @@
-# Merge-Insertion-Sort-Hybrid-Implementation-
+# Merge-Insertion-Sort-Hybrid-Implementation
